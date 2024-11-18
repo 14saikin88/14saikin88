@@ -18,11 +18,11 @@
 
 ### 👨‍💻: Обо мне :
 
-- 🧠 MPT Student
+- 👨‍🎓 MPT Student
 
-- 🎮 Dota2 player)
+- 🚙 Motor-car Enthusiast
 
-- *️⃣ Frontend Developer
+- 👨‍🔧 Mechanic
 
 ### 🛠 Языки и инструменты :
 
@@ -37,17 +37,17 @@
 ### 🏆 Достижения :
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=x30nchik" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=14saikin88" alt=""/>
 </div>
 
 ### ⌨️ Наиболее используемые языки :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x30nchik" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=14saikin88" alt=""/>
 </div>
 
 ### 📊 Статистика активности :
 
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x30nchik&bg_color=0d1117&color=949bff&line=ffffff&point=7c8bfe&area=true&hide_border=true" alt=""/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=14saikin88&bg_color=0d1117&color=949bff&line=ffffff&point=7c8bfe&area=true&hide_border=true" alt=""/>
 </div>
